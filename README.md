@@ -1,4 +1,4 @@
-# Mini CRM: Client Lead Management System
+# Mini CRM: Client Lead Management System(FUTURE_FS_02)
 
 A small CRM that captures leads from a website contact form and lets an admin track them from first contact to client. Built for the Future Interns Full Stack Web Development internship (Task 2).
 
