@@ -49,3 +49,14 @@ Any website can send leads by POSTing `{ name, email, phone, message, source }` 
 
 ## Ideas for next steps
 Rate limiting on the public endpoint, email alerts for new leads, CSV export, a follow-ups due today view.
+
+## Demo
+Demo video: [demo/demo-video.mp4](demo/demo-video.mp4)
+
+## Screenshots
+![Contact form](demo/screenshots/contact-form.png)
+![Admin login](demo/screenshots/login.png)
+![Dashboard](demo/screenshots/dashboard.png)
+![Lead details](demo/screenshots/lead-panel.png)
+![Search and filter](demo/screenshots/search-filter.png)
+![Converted lead](demo/screenshots/converted-lead.png)
